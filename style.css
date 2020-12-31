@@ -1,0 +1,31 @@
+html,
+body {
+  background-color: #f6f4f2;
+  color: #252423;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+}
+
+.animation-wrapper {
+  width: 80%;
+  padding-bottom: 40%;
+}
+
+.logo-animation {
+  position: absolute;
+  width: 1100px;
+  height: 550px;
+  transform-origin: left top;
+}
+
+.logo {
+  width: 34px;
+  height: 57px;
+}
