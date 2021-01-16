@@ -5,3 +5,5 @@ The code is very simple, I just wanted to check out some of the features in anim
 
 ## Demo
 To check out my code just go to the demo page [here](https://avigael.github.io/demo-animejs/ "here").
+
+![Preview](https://raw.githubusercontent.com/avigael/demo-animejs/main/preview.gif "Preview")
